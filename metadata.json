@@ -1,0 +1,6 @@
+{
+  "name": "Snowflakes and Balloons Viewer",
+  "description": "An elegant, formal application that showcases smooth falling snowflakes or floating balloons for 5 seconds upon clicking the respective option.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
